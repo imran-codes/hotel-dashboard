@@ -1,0 +1,109 @@
+{
+  "hotels": [
+    {
+      "title": "Mandarin Oriental, Doha",
+      "region": "Doha, Qatar",
+      "description": "Down near the Corniche and Souq Waqif, in the pristine and newly-minted Msheireb district, the Mandarin Oriental Doha highlights Qatari heritage with sophisticated design. Windows are shaded with traditional mashrabiya window lattices, door handles are made to resemble oryx horns, and sand dune patterns appear in carpets, textiles, and light fixtures. The rooftop pool and its poolside cabanas are easily one of the best spots in the city to watch the sunset.",
+      "reviews": "95",
+      "country": "Qatar",
+      "id": 1,
+      "features": "Room Only",
+      "charges": "Local Charges Payable at Hotel",
+      "totalprice": "£815",
+      "perNight": "£204",
+      "location": "https://media.cntraveler.com/photos/5f678a4c7557491753645010/master/w_1600%2Cc_limit/mandarin-oriental-doha-qatar.jpg"
+    },
+    {
+      "title": "Olema House Point Reyes",
+      "region": "Point Reyes, California",
+      "description": "Set on four acres on the outskirts of the Point Reyes National Seashore, an hour north of San Francisco, Olema House Point Reyes offers a restful stay on the scenic West Marin Coast, complete with views of Olema Creek, the Inverness Ridge, and Mt. Wittenberg. The 24 rooms, which include two cottages, all tout heated floors, down comforters and pillows, and Americana decor. If you eat at the hotel (and you should), the local, seasonal menu at Due West pulls from the bounty of nearby ranches, farms, and the bay, with ingredients like Tomales Bay oysters, house-cured pork belly, and summer squash. The complimentary breakfast includes fresh pastries, fruit, and charcuterie.",
+      "reviews": "975",
+      "country": "USA",
+      "id": 2,
+      "features": "Room Only",
+      "charges": "Free Parking for all guests",
+      "totalprice": "£917",
+      "perNight": "£255",
+      "location": "https://media.cntraveler.com/photos/5d828bc4c93c1b00091239dc/master/w_1600%2Cc_limit/Olema-House-at-Point-Reyes_2019_the-lodge-at-point-reyes-tanveer-badal-16.jpg"
+    },
+    {
+      "title": "Hotel 71",
+      "region": "Quebec City, Canada",
+      "description": "Inaugurated in 2005 within the 19th Century building of the First National Bank Head Office in Canada, Hotel 71 was voted one of the trendiest Canadian hotels in 2012 as per Tripadvisor. Hotel 71 is an urban property offering a prime location in Quebec City’s Old Port district. It is situated within walking distance from the best restaurants and attractions the city has to offer. With a total of 60 rooms and Suites, Hotel 71 is a contemporary property within a historic building and neighborhood. Each of its 60 rooms and Suites includes hardwood flooring, high ceiling, flat screen television, Nespresso coffee machine, high thread-count bedding and duvet, complimentary high speed wireless Internet access, cordless phone, DVD player & home theater system, ultramodern bathroom with rain shower as well as some amazing views. Also, 4 meetings rooms for gatherings of 2 to 110 persons as well as a brand new Penthouse Suite which will soon have its own exclusive rooftop terrace are available. Its popular in-house Italian Restaurant Il Matto 71 is also not to be missed. Hotel 71, a definite address of good-taste in Québec City!",
+      "reviews": "76",
+      "country": "Canada",
+      "id": 4,
+      "features": "Free WiFi",
+      "charges": "Private parking at the hotel",
+      "totalprice": "£1014",
+      "perNight": "£506",
+      "location": "https://media.cntraveler.com/photos/5f678a36978ff785b2501609/master/w_1600%2Cc_limit/hotel71-quebec-city-room.jpg"
+    },
+    {
+      "title": "Baur au Lac",
+      "region": "Zurich, Switzerland",
+      "description": "The Baur au Lac has the discerning tastes of its guests to thank for the leading position it has maintained for more than 175 years in the international luxury hotel industry. Set in its own park, the hotel enjoys a unique location overlooking the lake and the Alps - and yet is still but a few minutes' walk from the Paradeplatz financial district and the Bahnhofstrasse, Zurich's celebrated shopping high street. While offering the ultimate in comfort and privacy, the rooms and suites have been equipped with every, yet hardly noticeable technical refinement. The large marble bathrooms with heated floor and daylight match up to the highest demands of comfort, design and equipment.",
+      "reviews": "425",
+      "country": "Switzerland",
+      "id": 5,
+      "features": "Spa and wellness centre included",
+      "charges": "Local Charges Payable at Hotel",
+      "totalprice": "£865",
+      "perNight": "£504",
+      "location": "https://media.cntraveler.com/photos/5d84e0d0db6acf000833e5c7/master/w_1600%2Cc_limit/Baur-au-Lac_2019_Baur-au-Lac-view.jpg"
+    },
+    {
+      "title": "Sofitel Legend Santa Clara Cartagena",
+      "region": "Cartagena, Colombia",
+      "description": "Originally built as a convent in 1621, the Sofitel Santa Clara is a legendary landmark in the heart of Cartagena's walled city. Transformed into a luxury hotel in 1995, the Sofitel Santa Clara, unique in style, combines the allure of history with local hospitality and the art of French savoir-faire. Mixing Colonial and Republican-style architecture with modern comfort, the hotel features gourmet cuisine, exceptional service, a world-class spa, meeting facilities and state of the art technology for events, conventions and weddings.",
+      "reviews": "72",
+      "country": "Colombia",
+      "id": 6,
+      "features": "Swimming pool",
+      "charges": "Restaurant & Bar",
+      "totalprice": "£1115",
+      "perNight": "£374",
+      "location": "https://media.cntraveler.com/photos/5f678a1068f371240312a107/master/w_1600%2Cc_limit/sofitel-legend-santa-clara-cartagena.jpg"
+    },
+    {
+      "title": "Aranwa Cusco Boutique Hotel",
+      "region": "Cusco, Peru",
+      "description": "Aranwa Cusco Boutique Hotel is a 5-star boutique hotel that combines the essence of history, luxury and well-being, located in the heart of the Inca city. Cusco Boutique is also a hotel-museum built in an old colonial mansion that has been divided into seven strategic areas, transporting guests to the 16th century. Here you will be able to listen and visualize the history of each artwork, since it houses more than 300 pieces of art among paintings of Escuela Cusqueña (oil paintings on canvas of incalculable value), sculptures, beautiful colonial furniture, and fine gold and silverware that will transport you to the greatness of that time. In addition to our pieces of art and history, guests will be able to listen to our record collection, as it is the only hotel in the city of Cusco that will transport them to the 20th century with its elegant furniture, unique details and its beautiful and antique gramophones Talking Machine Co, patented in the U.S. Cusco Boutique has elegant rooms finely decorated, taking care of every detail in order to delight its guests. For the relaxation and rest of our guests, all rooms are equipped with intelligent oxygen system, and spacious spa-inspired bathrooms with electric radiant floor heating system, Scottish showers and whirlpool tubs. All of this complemented with a welcoming service. The hotel is located on Calle San Juan de Dios 255, near Plaza Regocijo, two blocks from Cusco’s Plaza de Armas (Main square). Check our video for further information about the hotel. Learn more about our art pieces found in the hotel. Ask for the audio guide at reception. Moreover Aranwa Cusco Boutique Hotel is a member of Historic Hotels Worldwide®, which is dedicated to promoting heritage and cultural travel to prestigious historic treasures. This world renowned, award winning hotel was chosen as the best hotel in South America according to the readers of the prestigious travel and lifestyle publication Condé Nast Traveler.",
+      "reviews": "25",
+      "country": "Peru",
+      "id": 7,
+      "features": "Room only",
+      "charges": "Restaurant & Bar",
+      "totalprice": "£705",
+      "perNight": "£111",
+      "location": "https://media.cntraveler.com/photos/5bc0a7ff2383b345456aafa9/master/w_1600%2Cc_limit/Aranwa-Cusco-Boutique-Hotel-Interior-2.jpg"
+    },
+    {
+      "title": "The Peninsula House",
+      "region": "Las Terrenas, Dominican Republic",
+      "description": "Everyone needs a place to lay their weary head. For travelers visiting Las Terrenas, The Peninsula House is an excellent choice for rest and rejuvenation. Well-known for its romantic environment and proximity to great restaurants, The Peninsula House makes it easy to enjoy the best of Las Terrenas.#N#Rooms at The Peninsula House Hotel offer air conditioning providing exceptional comfort and convenience, and guests can go online with free wifi.#N#A pool and free breakfast will also help to make your stay even more special. If you are driving to The Peninsula House Hotel, free parking is available.#N#Given the close proximity to Epona Ranch (1.7 mi), guests of The Peninsula House Hotel can easily experience one of Las Terrenas' most popular landmarks.#N#While you’re here, be sure to check out Restaurant Luis (1.0 mi), a popular restaurant that is within walking distance of The Peninsula House Hotel.#N#If you are interested in exploring Las Terrenas, check out a marina, such as Playa El Portillo.#N#Whether you’re traveling for business, pleasure or both, The Peninsula House is sure to make your visit to Las Terrenas one worth remembering",
+      "reviews": "222",
+      "country": "Dominican Republic",
+      "id": 8,
+      "features": "Room and Parking",
+      "charges": "Local Charges Payable at Hotel",
+      "totalprice": "£1415",
+      "perNight": "£800",
+      "location": "https://media.cntraveler.com/photos/5f678a1a755749175364500a/master/w_1600%2Cc_limit/peninsula-house-las-terrenas.jpg"
+    },
+    {
+      "title": "W Bogota",
+      "description": "Colombia has been rising through the ranks in terms of destinations in the past decade—and you can always trust W Hotels to walk shoulder-to-shoulder with the hottest trends. Opened in late 2014, W Bogota is situated right in the heart of the capital city's upscale Usaquen neighborhood, putting guests right next to embassies, restaurants, and boutiques. You can expect colorful, modern decor in all 168 guest rooms—especially in the Extreme Wow Suite, which includes a king-size bed with floral canopy, an avant-garde (and purple!) circular sofa, and 180-degree views of the city's skyline. Grab brunch or dinner at the Martin Kitchen before kicking back with a drink and live music at the W Lounge. Then it's back to your room to detox before repeating it all the next day.",
+      "features": "Spa and wellness centre",
+      "charges": "Restaurant & Bar",
+      "location": "https://media.cntraveler.com/photos/5f678a6e978ff785b2501611/master/w_1600%2Cc_limit/w-bogota-extreme-wow-suite.jpg",
+      "stars": "5",
+      "country": "Colombia",
+      "region": "Bogotá, Colombia",
+      "reviews": "37",
+      "totalprice": "£800",
+      "perNight": "£130",
+      "id": 9
+    }
+  ]
+}
