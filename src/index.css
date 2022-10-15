@@ -305,3 +305,43 @@ hr {
   border-radius: 8px;
   cursor: pointer;
 }
+
+/* Flight Card */
+.flight-card {
+  color: rgb(77, 77, 77);
+  padding: 10px;
+  border-radius: 8px;
+  margin-top: 15px;
+  background-color: white;
+}
+
+.destination {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 10px 0;
+}
+
+.flight-card li {
+  color: black;
+}
+
+.flight-card li:hover {
+  color: rgb(251, 173, 18);
+  cursor: pointer;
+}
+
+.flight-card button {
+  background: rgb(77, 77, 77);
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  width: 35px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.flight-card button:hover {
+  background-color: rgb(251, 173, 18);
+  cursor: pointer;
+}
