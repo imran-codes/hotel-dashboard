@@ -345,3 +345,81 @@ hr {
   background-color: rgb(251, 173, 18);
   cursor: pointer;
 }
+
+.individual-card {
+  gap: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.select {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 10px 0;
+  outline: none;
+  padding: 10px;
+  border: 1px solid rgb(77, 77, 77);
+  border-radius: 8px;
+  margin: auto;
+}
+
+.sort-title {
+  font-size: 1.2rem;
+  font-weight: 600;
+  text-align: center;
+}
+
+/* Search Page */
+.search__page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+  gap: 20px;
+}
+
+.search__page h1 {
+  color: rgb(77, 77, 77);
+}
+
+.search__page h1:hover {
+  color: rgb(251, 173, 18);
+}
+
+.search__page input {
+  width: 100%;
+  padding: 6px 10px;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+  display: block;
+}
+
+.search__page button {
+  background: rgb(77, 77, 77);
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+  width: 100%;
+}
+
+.search {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  width: 80vw;
+}
+
+.search__title > a {
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.search__title > a {
+  cursor: pointer;
+  text-decoration: none;
+}

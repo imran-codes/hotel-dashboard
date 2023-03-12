@@ -10,6 +10,7 @@ const NotFound = React.lazy(() => import("./components/NotFound"));
 const ReactQueryDestinations = React.lazy(
   () => import("./components/ReactQueryDestinations")
 );
+const Search = React.lazy(() => import("./components/Search"));
 
 function App() {
   const queryClient = new QueryClient();
@@ -24,6 +25,7 @@ function App() {
           <Route path="/" element={<Card />} />
           <Route path="/destinations" element={<Destinations />} />
           <Route path="/react-query" element={<ReactQueryDestinations />} />
+          <Route path="/search" element={<Search />} />
         </Routes>
         <ReactQueryDevtools initialIsOpen={false} />
       </QueryClientProvider>
